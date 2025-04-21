@@ -8,3 +8,13 @@
             </div>
         </div>
     </div> 
+
+
+
+
+    @media (min-width: 600px) {
+      .container, .container-md, .container-sm {
+          max-width: 1540px;
+      }
+    } 
+    размеры
