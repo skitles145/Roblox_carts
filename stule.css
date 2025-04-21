@@ -1,3 +1,27 @@
+.textloblox {
+text-align: center;
+}
+.goot {
+    width: 1540px;
+    height: 100px;
+    background-color: rgb(111, 111, 111);
+}
 .containers {
-    width: 10px;
+    width: 900px;
+    height: 100px;
+}
+
+.me {
+    height: 300px;
+    top: 1000px;
+    
+}
+.vontema1 {
+    width: 1540px;
+    background-color: rgb(255, 255, 142);
+}
+.tema1 {
+    height: 100px;
+    width: 1500px;
+    text-align: center;
 }

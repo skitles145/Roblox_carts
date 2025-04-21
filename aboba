@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="col-md-4"> 
+        <div class="card"> 
+          <div class="card-body"><img class="card-img-top mb-4" src="./img/pic/articles/dota-article-3.png" alt="...">
+            <h5 class="card-title">игра </h5>
+            <p class="card-text">
+               чето будет</p><a class="btn btn-primary" href="#">100%</a>
+            </div>
+        </div>
+    </div> 
