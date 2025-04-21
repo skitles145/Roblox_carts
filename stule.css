@@ -21,10 +21,6 @@ background-color: rgb(202, 202, 202);
     height: 300px;
     top: 1000px;
 background-color: rgb(146, 255, 235);
-border: var(--bs-card-border-width) solid var(--bs-card-border-color);
-border-radius: var(--bs-card-border-radius);
-
-    
 }
 .vontema1 {
     width: 1540px;
@@ -34,4 +30,14 @@ border-radius: var(--bs-card-border-radius);
     height: 100px;
     width: 1500px;
     text-align: center;
+}
+
+.col-md-4 {
+    top: 100px;
+    height: 250px;
+}
+
+.rpstar {
+    color: #64ff42;
+    height: 50px;
 }
