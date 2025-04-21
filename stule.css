@@ -1,14 +1,15 @@
 .textloblox {
 text-align: center;
+color: #ffffff;
 }
 .goot {
     width: 1540px;
-    height: 100px;
+    height: 150px;
     background-color: rgb(111, 111, 111);
 }
 .containers {
     width: 900px;
-    height: 100px;
+    height: 150px;
 }
 
 .aftor {
@@ -34,19 +35,14 @@ width: 1000px;
     }
   } 
 
-.rplava {
-    height: auto;
-    width: 1540px;
-    background-color: rgb(255, 255, 142);
-}
 
 .vontema1 {
-    width: 1540px;
+    width: 1425px;
     background-color: rgb(255, 255, 142);
 }
 .tema1 {
     height: 100px;
-    width: 1500px;
+    width: 1300px;
    text-align: center; 
 }
 

@@ -18,3 +18,13 @@
       }
     } 
     размеры
+
+
+
+
+    
+.rplava {
+  height: auto;
+  width: 1540px;
+  background-color: rgb(255, 255, 142);
+}
