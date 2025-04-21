@@ -11,9 +11,19 @@ text-align: center;
     height: 100px;
 }
 
+.aftor {
+text-align: center;
+background-color: rgb(202, 202, 202);
+
+}
+
 .me {
     height: 300px;
     top: 1000px;
+background-color: rgb(146, 255, 235);
+border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+border-radius: var(--bs-card-border-radius);
+
     
 }
 .vontema1 {
