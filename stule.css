@@ -81,3 +81,8 @@ width: 1000px;
     color: #000000;
     height: 50px;
 }
+
+.RYP {
+    display: flex;
+    flex-wrap: wrap
+} 
