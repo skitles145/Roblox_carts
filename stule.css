@@ -84,6 +84,18 @@ width: 1000px;
 
 .RYP {
     display: flex;
-    flex-wrap: wrap
-
+    flex-wrap: wrap;
+    gap : 270px;
 }
+
+.Xp {
+    background-color: rgb(50, 50, 50);
+    width:  auto;
+    height: auto;
+}
+
+.xpstar {
+    color: #da0000;
+    height: 50px;
+}
+
