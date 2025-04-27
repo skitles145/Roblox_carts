@@ -107,3 +107,9 @@ width: 1000px;
 .card-btn {
     align-self: flex-end;
 }
+
+.teni {
+    -webkit-box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
+-moz-box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
+box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
+}
