@@ -24,6 +24,7 @@ background-color: rgb(255, 255, 255);
     height: 300px;
     top: 1000px;
 background-color: rgb(146, 255, 235);
+
 }
 
 .poblox {
@@ -109,7 +110,7 @@ width: 1000px;
 }
 
 .teni {
-    -webkit-box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
--moz-box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
-box-shadow: 19px 9px 40px 23px rgba(94, 108, 120, 0.43);
+    -webkit-box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
+    -moz-box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
+    box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
 }
