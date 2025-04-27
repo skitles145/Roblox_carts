@@ -99,3 +99,11 @@ width: 1000px;
     height: 50px;
 }
 
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-btn {
+    align-self: flex-end;
+}
