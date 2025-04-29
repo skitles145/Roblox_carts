@@ -32,12 +32,6 @@ width: 1000px;
 }
 
 
-@media (min-width: 300px) {
-    .poblox {
-        max-width: 1000px;
-    }
-  } 
-
 
 .vontema1 {
     width: auto;
@@ -113,4 +107,29 @@ width: 1000px;
     -webkit-box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
     -moz-box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
     box-shadow: 13px 12px 15px 10px rgba(56, 56, 56, 0.31);
+}
+
+
+.vontema2 {
+    width: auto;
+    background-color: rgb(221, 142, 255);
+}
+
+
+.tema2 {
+    height: 100px;
+    width: 1300px;
+   text-align: center; 
+}
+
+
+.PL {
+    background-color: rgb(112, 255, 148);
+    width:  auto;
+    height: auto;
+}
+
+.Plstar {
+    color: #ffffff;
+    height: 50px;
 }
