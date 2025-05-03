@@ -1,17 +1,15 @@
 .textloblox {
-    height: auto;
-    width: auto;
 text-align: center;
 color: #ffffff;
 }
 .goot {
-    width: 1540px;
-    height: 150px;
+    width: auto;
+    height: auto;
     background-color: rgb(111, 111, 111);
 }
 .containers {
-    width: 900px;
-    height: 150px;
+    width: auto;
+    height: auto;
 }
 
 .aftor {
@@ -28,7 +26,7 @@ background-color: rgb(146, 255, 235);
 }
 
 .poblox {
-width: 1000px;
+width: auto;
 }
 
 
@@ -38,8 +36,8 @@ width: 1000px;
     background-color: rgb(255, 255, 142);
 }
 .tema1 {
-    height: 100px;
-    width: 1300px;
+    height: auto;
+    width: auto;
    text-align: center; 
 }
 
@@ -117,8 +115,8 @@ width: 1000px;
 
 
 .tema2 {
-    height: 100px;
-    width: 1300px;
+    height: auto;
+    width: auto;
    text-align: center; 
 }
 
@@ -142,8 +140,8 @@ width: 1000px;
 
 
 .tema3 {
-    height: 100px;
-    width: 1300px;
+    height: auto;
+    width: auto;
    text-align: center; 
 }
 
@@ -159,7 +157,7 @@ width: 1000px;
 }
 
 .footer {
-    height: 150px;
+    height: 160px;
     background-color: rgb(49, 0, 54);
 }
 
